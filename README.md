@@ -95,15 +95,3 @@ docker-compose up -d
 ```
 
 ---
-
-## 💡 Notes
-
-* ห้าม commit ไฟล์ `.env` หรือ `appsettings.Development.json`
-* ใช้ DTOs เพื่อแยกข้อมูล request/response ออกจาก models
-* ใช้ EF Core สำหรับจัดการฐานข้อมูล
-
----
-
-## 👨‍💻 Author
-
-Intern Project
