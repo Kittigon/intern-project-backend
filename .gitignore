@@ -1,0 +1,101 @@
+# Build results
+bin/
+obj/
+publish/
+out/
+
+# Logs
+*.log
+*.logs
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.user.*
+*.csv
+*.ods
+
+# Visual Studio cache/options
+.vs/
+.vscode/
+.history/
+launch.json
+settings.json
+
+# Rider
+.idea/
+*.sln.iml
+
+# ReSharper
+_ReSharper*/
+*.resharper.user
+*.DotSettings.user
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Environment variables / secrets
+.env
+.env.*
+.env.local
+*.pem
+*.key
+appsettings.json
+
+
+# Docker
+docker-compose.override.yml
+.docker/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Test Results
+TestResults/
+*.trx
+
+# Certificates
+*.pfx
+*.pem
+*.key
+
+# IDE
+.vscode/settings.json
+.vscode/launch.json
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+
+# Test results
+
+TestResults/
+
+# HTTP scratch files (optional)
+
+*.http
+
+# Database (if using local DB files)
+
+*.mdf
+*.ldf
+*.sqlite
+*.db
+
+# Coverage
+
+coverage/
